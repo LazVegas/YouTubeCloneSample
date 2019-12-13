@@ -1,3 +1,12 @@
+Here is the youtube video for this project: https://www.youtube.com/watch?v=VPVzx1ZOVuw
+npm i --save axios @material-ui/core
+    Material UI: React components for faster and easier web development.  Build your own design system, or start with Material Design (pre-build/pre-styled components).
+npm start
+    To install the youtube api go to developers.google.com/youtube/v3/getting-started
+    Need a google account and api key
+
+-------------------------------------------------------------------------------------------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
